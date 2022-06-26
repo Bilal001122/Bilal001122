@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning Flutter, Dart, Python, Adobe XD, Adobe illustrator.
 - 📫 How to reach me : https://www.linkedin.com/in/bilal-arab-144181230/
 ### Contact me :
-[GitHub Pages](https://www.linkedin.com/in/bilal-arab-144181230/).
