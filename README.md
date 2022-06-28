@@ -34,6 +34,6 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bilal001122&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Bilal001122&show_icons=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal001122&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bilal001122"/>
