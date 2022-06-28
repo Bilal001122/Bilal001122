@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
