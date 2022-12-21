@@ -41,6 +41,10 @@
             <span><strong>Java</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
+          <td width="80px" align="center">
+            <span><strong>PyTorch</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -57,6 +61,10 @@
             <td width="80px" align="center">
             <span><strong>Figma</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+            </td>
+          <td width="80px" align="center">
+            <span><strong>scikit learn</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit learn/scikitlearn-original.svg">
             </td>
         </tr>
     </tbody>
