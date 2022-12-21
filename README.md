@@ -1,7 +1,7 @@
 ## Hi, I’m Bilal Arab 👋
 ### A passionate mobile developer from Algeria, and Software Engineer Student.
 - 🔭 I am currently working on some flutter projects.
-- 🌱 I’m currently learning Flutter, Dart, Python.
+- 🌱 I’m currently learning Flutter, Dart, Python, TensorFlow, Tableau.
 - 💬 Ask me about anything I know. I would be glad to share what I know with you.
 - 📫 How to reach me : https://www.linkedin.com/in/bilal-arab-144181230/
 ### Connect with me :
