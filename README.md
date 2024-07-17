@@ -25,27 +25,35 @@
 <table width="320px">
     <tbody>
         <tr valign="top">
+            <td width="160px" align="center">
+            <span><strong>Android studio</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+            </td>
             <td width="80px" align="center">
             <span><strong>Flutter</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Dart</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Kotlin</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            <td width="160px" align="center">
+            <span><strong>Jetpack compose</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
             </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
+            <span><strong>VS Code</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+            </td>
+            <td width="80px" align="center">
             <span><strong>HTML5</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>CSS3</strong></span><br>
@@ -56,25 +64,30 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <span><strong>Typescript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
             </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>C</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            <span><strong>Next.js</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <span><strong>Tailwindcss</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+            </td>
+            <td width="140px" align="center">
+            <span><strong>Framer motion</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg">
+            </td>
             <td width="80px" align="center">
-            <span><strong>Figma</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+            <span><strong>Prisma</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
             </td>
         </tr>
     </tbody>
