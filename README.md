@@ -77,8 +77,8 @@
             <span><strong>Next.js</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Tailwindcss</strong></span><br>
+            <td width="120px" align="center">
+            <span><strong>Tailwind CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
             </td>
             <td width="140px" align="center">
