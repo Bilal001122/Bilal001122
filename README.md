@@ -18,29 +18,29 @@
 ### :hammer_and_wrench: Languages and Tools :
 <table width="320px">
     <tbody>
-        <tr valign="top">
-            <td width="160px" align="center">
-            <span><strong>Android studio</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+      <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Flutter</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+            <span><strong>Next.js</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+            </td>
+            <td width="120px" align="center">
+            <span><strong>Tailwind CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+            </td>
+            <td width="140px" align="center">
+            <span><strong>Framer motion</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Dart</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Kotlin</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-            </td>
-            <td width="160px" align="center">
-            <span><strong>Jetpack compose</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
+            <span><strong>Prisma</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
             </td>
         </tr>
-        <tr valign="top">
+      <tr valign="top">
             <td width="80px" align="center">
             <span><strong>VS Code</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
@@ -63,25 +63,25 @@
             </td>
         </tr>
         <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <td width="160px" align="center">
+            <span><strong>Android studio</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Next.js</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-            </td>
-            <td width="120px" align="center">
-            <span><strong>Tailwind CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-            </td>
-            <td width="140px" align="center">
-            <span><strong>Framer motion</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg">
+            <span><strong>Flutter</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Prisma</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
+            <span><strong>Dart</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Kotlin</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+            </td>
+            <td width="160px" align="center">
+            <span><strong>Jetpack compose</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
             </td>
         </tr>
     </tbody>
