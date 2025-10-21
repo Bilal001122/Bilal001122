@@ -1,7 +1,7 @@
 ## Hi, I’m Bilal Arab 👋
-### A passionate mobile & Web developer from Algeria, and Software Engineer Student.
-- 🔭 I am currently working on some web projects.
-- 🌱 I’m currently learning Next.js, Typescript.
+### A passionate Full-Stack Developer and Software Engineer based in France.
+- 🔭 🎓 Holder of an Engineering degree in Computer Systems and Software from ESI (Algeria) and currently pursuing a Master’s in Computer Science at Université Grenoble Alpes.
+- 💻 Experienced in building full-stack web applications using TypeScript, Next.js, and NestJS.
 - 💬 Ask me about anything I know. I would be glad to share what I know with you.
 - 📫 How to reach me : https://www.linkedin.com/in/bilal-arab-144181230/
 ### Connect with me :
